@@ -57,9 +57,10 @@ To publish this calculator to GitHub Pages, follow these detailed steps:
 2. Click on "Settings" in the top navigation
 3. Scroll down to the "GitHub Pages" section
 4. Under "Source", select "main" branch from the dropdown menu
-5. Click "Save"
-6. Wait a few minutes for GitHub to build and publish your site
-7. Your IRR Calculator will be available at: `https://your-username.github.io/irr-calculator/`
+5. **Important:** If your files are in a subdirectory (like `allenirr/`), click the dropdown that says "/(root)" and select "/allenirr"
+6. Click "Save"
+7. Wait a few minutes for GitHub to build and publish your site
+8. Your IRR Calculator will be available at: `https://your-username.github.io/irr-calculator/`
 
 ## Local Development
 1. Start a local server:
